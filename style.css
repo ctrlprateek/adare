@@ -55,9 +55,9 @@ p {
 }
 
 a {
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
-   text-decoration: none;
+   text-decoration: italic;
 }
 
 nav a {
